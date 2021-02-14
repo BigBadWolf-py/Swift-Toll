@@ -1,0 +1,6 @@
+barcode
+bottle==0.12.13
+MySQL-python==1.2.5
+python-google-places
+jsonpickle==0.9.3
+pybarcode==0.7
